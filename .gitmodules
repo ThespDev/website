@@ -1,0 +1,7 @@
+[submodule "thespdevsite/public"]
+	path = thespdevsite/public
+	url = git@github.com:ThespDev/thespdev.github.io.git
+	branch = main
+[submodule "thespdevsite/themes/hugo-coder"]
+	path = thespdevsite/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
